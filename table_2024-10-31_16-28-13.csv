@@ -1,0 +1,34 @@
+SuperWEB2(tm)
+
+"Census 2022-Person-2Gv2"
+"Scotland's Census 2022 - National Records of Scotland Table UV302 - General health All people"
+"Health Board Area 2019 以 General Health"
+"计数: Individuals"
+
+过滤器:
+"缺省计量字段","Individuals"
+
+"General Health","All people","Very good","Good","Fair","Bad","Very bad",
+"Health Board Area 2019",
+"Ayrshire and Arran",365256,163216,112441,59111,23324,7162,
+"Borders",116821,55953,37005,17061,5226,1572,
+"Dumfries and Galloway",145895,64009,46912,23922,8420,2630,
+"Forth Valley",302784,144160,94676,43587,15649,4715,
+"Grampian",581040,289293,189397,74047,22121,6179,
+"Highland",321321,154143,100882,46307,15367,4621,
+"Lothian",904628,464538,277217,112814,38504,11555,
+"Orkney",21958,10605,7415,2896,789,253,
+"Shetland",22986,11532,7284,3016,898,256,
+"Western Isles",26140,12736,7622,4114,1279,389,
+"Fife",371781,171231,118091,56312,20305,5842,
+"Tayside",413992,195589,133814,58158,20363,6072,
+"Greater Glasgow and Clyde",1177213,559238,349115,170583,73791,24486,
+"Lanarkshire",668027,312287,198270,101490,42409,13571,
+
+
+"INFO","Data has been perturbed"
+
+
+"Crown copyright 2024 For further information on variables, see https://www.scotlandscensus.gov.uk/about/metadata-a-to-z/ In order to protect against disclosure of personal information, Statistical Disclosure Control has been applied to the data/outputs.  Cells might not sum to sub totals and totals due to these Statistical Disclosure Controls. To find out more on this visit https://www.scotlandscensus.gov.uk/about/2022-census/statistical-methodology/statistical-disclosure-control/"
+
+(c) Copyright WingArc Australia 2018
